@@ -64,4 +64,4 @@ npm run dev
 
 ## 🌐 Live Demo
 
-[Keripik Cabe Selodang](https://fe-selodang.vercel.app/)
+[Keripik Cabe Selodang](https://fe-selodang1.vercel.app/)
